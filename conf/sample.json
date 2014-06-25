@@ -1,0 +1,8 @@
+[
+    {
+        "api-key": "YOUR API KEY",
+        "api-secret": "YOUR APU SECRET",
+        "accessToken": "YOUR ACCESS TOKEN"
+        , "accessSecret": "YOUR ACCESS SECRET"
+    }
+]

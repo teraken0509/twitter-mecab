@@ -1,0 +1,21 @@
+{
+    "name": "twitter",
+    "description": "",
+    "version": "0.0.1",
+    "main": "./twitter.js",
+    "author": {
+        "name": "kterada",
+        "email": "kterada@4cast.co.jp"
+    },
+    "keywords": [],
+    "licenses": {
+        "type": "none"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/YOUR_LOGIN/twitter.git"
+    },
+    "bugs": {
+        "url": "http://github.com/YOUR_LOGIN/twitter/issues"
+    }
+}
